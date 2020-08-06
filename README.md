@@ -1,13 +1,13 @@
 ##                                社交媒体热点事件的观点倾向分析
 
 ```这里必须是简体中文~
-我以后可以在GitHub上写日记叻		  __       upset = {
+我以后可以在GitHub上写日记叻       __       upset = {
       __  __ ____   _____ ___   / /_                "time": "一天半" ，
      / / / // __ \ / ___// _ \ / __/                "task": "老师布置的简单学术考核" ，
     / /_/ // /_/ /(__  )/  __// /_                  "result": "没能按时完成" ,
     \__,_// .___//____/ \___/ \__/                  "quote": "我妈:机会留给有准备的人"，
-         /_/ 	      			 					"mood": "那我一定是那个没有准备好的笨蛋 ☹"
-	      			  							}		  
+         /_/ 	      			 	    "mood": "那我一定是那个没有准备好的笨蛋 ☹"
+	      			  		}		  
 ```
 
 <img src='https://img.shields.io/badge/python-v3.8.3-blue' align='left' /><img src='https://img.shields.io/badge/jieba-v0.42.1-green' align='left' /><img src='https://img.shields.io/badge/gensim-v3.8.3-purple' align='left' />
