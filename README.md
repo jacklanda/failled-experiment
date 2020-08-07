@@ -10,7 +10,7 @@
 	      			  		}		  
 ```
 
-<img src='https://img.shields.io/badge/python-v3.8.3-blue' align='left' /><img src='https://img.shields.io/badge/jieba-v0.42.1-green' align='left' /><img src='https://img.shields.io/badge/gensim-v3.8.3-purple' align='left' />
+<img src='https://img.shields.io/badge/python-v3.8.3-blue' align='left' /><img src='https://img.shields.io/badge/jieba-v0.42.1-green' align='left' /><img src='https://img.shields.io/badge/gensim-v3.8.3-purple' align='' />
 
 
 
@@ -205,7 +205,6 @@ ___
 ---
 
 详见: ./src
-
       ./metadata     
 
 目录下的相关文件
@@ -227,17 +226,17 @@ ___
 
 - 文献：
   
-- > `word2vec Parameter Learning Explained - Xin Rong`
+  - > `word2vec Parameter Learning Explained - Xin Rong`
     
-- > `Efficient Estimation of World Representations in Vector Space - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean - Google 2013`
+  - > `Efficient Estimation of World Representations in Vector Space - Tomas Mikolov, Kai Chen, Greg Corrado, Jeffrey Dean - Google 2013`
   
   - > `《面向多源社交网络舆情的情感分析算法研究》彭浩,朱望鹏 ,赵丹丹,吴松洋《信息技术》2019年第2期`
   
 - 书籍：
   
-- >  `《流畅的Python》p424  Luciano Ramalho[巴西] 著  人民邮电出版社 2017年5月第1版`
+  - >  `《流畅的Python》p424  Luciano Ramalho[巴西] 著  人民邮电出版社 2017年5月第1版`
   
-- >  `《左手MongoDB，右手Redis》p2  谢乾坤著  电子工业出版社 2019年2月第1版`
+  - >  `《左手MongoDB，右手Redis》p2  谢乾坤著  电子工业出版社 2019年2月第1版`
   
 - 文档和源码:    
   
